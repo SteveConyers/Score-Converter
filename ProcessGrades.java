@@ -1,3 +1,7 @@
+/* Grade Processor by Steven Conyers
+	 Created: 2/2/22
+	 Update: 3/11/2024 */
+
 import java.util.Scanner;
 
 public class ProcessGrades {
